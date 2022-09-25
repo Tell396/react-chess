@@ -2594,3 +2594,5 @@ Info 2546 [13:26:41.256] Elapsed:: 0.18209698796272278ms DirectoryWatcher:: Trig
 Info 2547 [13:26:42.774] Starting updateGraphWorker: Project: /home/beethoven/Templates/React/its-chess/tsconfig.json
 Info 2548 [13:26:42.869] Finishing updateGraphWorker: Project: /home/beethoven/Templates/React/its-chess/tsconfig.json Version: 219 structureChanged: false structureIsReused:: Completely Elapsed: 95.21274299919605ms
 Info 2549 [13:26:42.869] Different program with same set of files
+Info 2550 [13:36:14.086] FileWatcher:: Triggered with /home/beethoven/Templates/React/its-chess/package.json 1:: WatchInfo: /home/beethoven/Templates/React/its-chess/package.json 250 undefined WatchType: package.json file
+Info 2551 [13:36:14.088] Elapsed:: 1.8131360113620758ms FileWatcher:: Triggered with /home/beethoven/Templates/React/its-chess/package.json 1:: WatchInfo: /home/beethoven/Templates/React/its-chess/package.json 250 undefined WatchType: package.json file
